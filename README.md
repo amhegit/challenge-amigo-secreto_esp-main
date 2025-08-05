@@ -21,6 +21,3 @@
 Si tienes dudas o necesitas ayuda, puedes abrir un issue en el repositorio de GitHub donde esté alojado el proyecto o contactar al autor directamente.
 
 ## 👨‍👩‍👧‍👦 Autores
-
-- Martin Huirse  
-- Colaboraciones bienvenidas 😊
